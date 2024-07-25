@@ -110,16 +110,16 @@ const Contact = () => {
             <h1 className="text-3xl font-bold">Email</h1>
             <a
               href="hello"
-              className="mb-12 mt-4 font-semibold text-blue-700 block uppercase"
+              className="mb-12 mt-4 font-semibold text-blue-700 block"
             >
               niteshgvm@gmail.com
             </a>
             <h1 className="text-3xl  font-bold">Address</h1>
             <a
               href="hello"
-              className="mt-4  mb-12 md:text-left font-semibold text-blue-700 block uppercase"
+              className="mt-4  mb-12 md:text-left font-semibold text-blue-700 block"
             >
-              Thane, Mumbai, Maharashtra
+              Lokmanya Nagar, Thane (W), Mumbai - 400604
               <br />
               India
             </a>
@@ -145,9 +145,9 @@ const Contact = () => {
             : "w-full bg-gray-900 text-white text-lg py-3 flex justify-center md:mt-20"
         }
       >
-        Made with
-        <div className="text-red-500 px-2 text-2xl">&#10084;</div>
-        by Nitish Singh
+        Made by Nitish Singh <div className="text-black-500 text-2xl">&#169;</div>
+        {/* with */}
+        {/* <div className="text-red-500 px-2 text-2xl">&#10084;</div> */}
       </div>
     </div>
   );

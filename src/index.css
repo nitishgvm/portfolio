@@ -34,3 +34,9 @@ code {
   background-color: white;
   border-radius: 40px;
 }
+
+/* Add this to your App.css or another CSS file */
+.custom-font {
+  font-family: 'Roboto Slab', serif;
+}
+

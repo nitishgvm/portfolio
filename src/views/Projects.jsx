@@ -36,7 +36,7 @@ const Projects = () => {
               }}
               class="max-w-xl bg-white rounded-lg border border-gray-200 shadow-lg dark:bg-gray-800 dark:border-gray-700 my-8"
             >
-              <a href="hello">
+              <a href="hello" onClick={(e)=>handleButtonClick(e,el.url)}>
                 <img class="rounded-t-lg w-full" src={el.img} alt={el.name} />
               </a>
               <div class="p-5">

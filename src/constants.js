@@ -81,7 +81,7 @@ export const serviceData = [
 export const projectData = [
   {
     name: 'Bandhan Mutual Fund',
-    desc: '',
+    desc: 'Bandhan Mutual Fund is a leading mutual fund provider in India, offering a wide range of investment solutions to individual and institutional clients. Bandhan Mutual Fund faced a significant challenge in managing their financial transactions and client data due to the large volume of data generated daily from various branches and online platforms. They relied on disparate systems, leading to inefficiencies and difficulties in accessing and maintaining critical information. To address this, we developed a comprehensive software solution that streamlined their operations by integrating data management into a centralized platform. We ensured secure and scalable data storage, facilitating easy access and real-time processing. Additionally, we created a user-friendly interface, the Fund Management Dashboard, enabling efficient transaction processing, data analysis, and client management. This solution not only improved operational efficiency but also enhanced data integrity and security, supporting Bandhan Mutual Fund’s commitment to delivering exceptional service to their clients.',
     img: bandhan,
     url: 'https://online.bandhanmutual.com/'
   },
